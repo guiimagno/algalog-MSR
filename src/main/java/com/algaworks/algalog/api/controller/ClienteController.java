@@ -1,7 +1,7 @@
 package com.algaworks.algalog.api.controller;
 
 import com.algaworks.algalog.domain.model.Cliente;
-import com.algaworks.algalog.domain.model.repository.ClienteRepository;
+import com.algaworks.algalog.domain.repository.ClienteRepository;
 import com.algaworks.algalog.domain.service.CatalogoClienteService;
 import lombok.AllArgsConstructor;
 import org.springframework.beans.factory.annotation.Autowired;

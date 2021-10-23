@@ -1,4 +1,4 @@
-package com.algaworks.algalog.domain.model.repository;
+package com.algaworks.algalog.domain.repository;
 
 import com.algaworks.algalog.domain.model.Cliente;
 import org.springframework.data.jpa.repository.JpaRepository;
